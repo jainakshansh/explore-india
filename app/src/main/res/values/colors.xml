@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
     <color name="colorPrimary">#bf360c</color>
     <color name="colorPrimaryDark">#860000</color>
     <color name="colorAccent">#FFFFFF</color>
@@ -11,4 +12,10 @@
     <color name="colorDarkGray">#ABABAB</color>
     <color name="colorLightGray">#F1F1F1</color>
 
+=======
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+>>>>>>> 85d6d706d3c1f537c9f903cc3c30c1a427dddd7d
 </resources>

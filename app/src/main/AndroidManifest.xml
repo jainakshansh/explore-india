@@ -10,6 +10,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+<<<<<<< HEAD
 
         <activity android:name=".ui.splash.SplashActivity"
             android:theme="@style/Theme.AppCompat.NoActionBar">
@@ -26,6 +27,12 @@
 
         </activity>
         <activity android:name=".ui.home.HomeActivity">
+=======
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/NoActionBar" />
+        <activity android:name=".SplashActivity">
+>>>>>>> 85d6d706d3c1f537c9f903cc3c30c1a427dddd7d
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
